@@ -5,7 +5,7 @@ array = []
 for i in range(n):
     score = 0
     scoresum = 0
-    array = map(str,input().split())
+    array = list(input())
     for j in array:
         if(j == 'O'):
             score += 1
