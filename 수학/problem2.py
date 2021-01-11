@@ -1,3 +1,4 @@
+# 벌집 문제
 n = int(input())
 
 result = 1
