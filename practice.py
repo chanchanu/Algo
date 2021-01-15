@@ -4,3 +4,4 @@
 #a,b,c = map(int,input().split()) # 띄어쓰기 단위에서 int자료형으로 바꿔서 각 변수에 넣기
 a = [int(i) for i in input().split()] # 띄어쓰기 단위에서 int 자료형으로 바꿔서 list로 저장 
 # []는 list, ()는 튜플
+
