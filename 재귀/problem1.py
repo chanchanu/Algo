@@ -8,3 +8,4 @@ def fact(n):
     return result
 n = int(input())
 print(fact(n))
+
