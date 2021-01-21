@@ -10,3 +10,4 @@ result = 0
 for i in range(0,num):
     a = list(str(i))
     print(sum(int(a)))
+    
