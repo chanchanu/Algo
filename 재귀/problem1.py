@@ -9,3 +9,4 @@ def fact(n):
 n = int(input())
 print(fact(n))
 
+
