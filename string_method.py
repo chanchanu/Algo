@@ -38,6 +38,7 @@ def erase_space_from_string(string):
 # strip
 
 
+
 # upper lower
 a = "asd"
 b = "ASD"
