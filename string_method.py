@@ -45,6 +45,7 @@ b = "ASD"
 print(a.upper())
 print(b.lower())
 
+
 # index, find (sub, start, end) 인데 주로 sub만 쓰는경우가 많다.
 # 둘다 index를 반환하는데 차이는 못찾았을떄, index는 에러 find는 -1 반환
 l = "i am chan woo kim"
