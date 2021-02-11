@@ -2,13 +2,13 @@ alist=[1,2,3,["a","b"]]
 
 blist=alist
 
-print(blist) 
+print(blist)
 
-alist.append(5) 
+alist.append(5)
 
-blist[3].append('c') 
+blist[3].append('c')
 
 
-print(alist) 
+print(alist)
 
 print(blist)
