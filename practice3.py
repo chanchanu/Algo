@@ -11,6 +11,5 @@ blist[3].append('c')
 
 print(alist)
 
-
 print(blist)
 
